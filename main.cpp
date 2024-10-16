@@ -4,7 +4,7 @@ int main() {
 
 	printf("Hello Git");
 
-	printf("\nHello Branch");
+	printf("\npull reauest branch changed");
 
 	return 0;
 }
